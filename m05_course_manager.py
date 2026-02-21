@@ -292,7 +292,7 @@ def add_course(courses, update_db=True):
         "duration_mins": duration
     }
 
-    # add to database
+    # Add to database
     if update_db: 
         add_menu_item(new_course)
     print("Item added successfully!")
