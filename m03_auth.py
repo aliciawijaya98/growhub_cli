@@ -190,4 +190,5 @@ def auth_menu():
             print("Invalid option. Please choose 1-3.")
 
 if __name__ == "__main__":
+>>>>>>> 15ce2ee6eeb2e00339abd91c7d7dbd02b458b07c
     auth_menu()
